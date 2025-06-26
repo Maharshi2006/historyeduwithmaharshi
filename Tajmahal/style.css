@@ -1,0 +1,693 @@
+.taj-mahal,
+.taj-mahal * {
+  box-sizing: border-box;
+}
+.taj-mahal {
+  height: 6535px;
+  position: relative;
+  overflow-y: auto;
+}
+.image-10 {
+  width: 1931px;
+  height: 1164px;
+  position: absolute;
+  left: 0.23px;
+  top: 331.13px;
+  object-fit: cover;
+}
+.container {
+  padding: 584px 940px 584px 940px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  height: 1200px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.for-video-click-on-it {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 96px;
+  font-weight: 500;
+  text-decoration: underline;
+  opacity: 0.8;
+  position: absolute;
+  left: 506.23px;
+  top: 795.13px;
+  width: 907px;
+  height: 318px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  opacity: 0.3;
+  width: 1920px;
+  height: 1017px;
+  position: absolute;
+  left: 0.23px;
+  top: 446.13px;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1920px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  backdrop-filter: blur(4px);
+}
+.container2 {
+  padding: 24px 96px 24px 96px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-8 {
+  flex-shrink: 0;
+  width: 204px;
+  height: 204px;
+  position: relative;
+  object-fit: cover;
+}
+.margin {
+  margin: 0 0 0 0px;
+  padding: 0px 0px 0px 925.92px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex: 1;
+  min-width: var(--width-64208, 642.08px);
+  position: relative;
+}
+.container4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-12, 12px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-4 {
+  padding: 14px 20px 14px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container5 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 15.75px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-family-font-2, "Inter-Regular", sans-serif);
+  font-size: 15.75px;
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-7 {
+  background: #ff8000;
+  border-radius: 8px;
+  padding: 8px 20px 8px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container6 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 14.5px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.margin2 {
+  margin: 0 0 0 0px;
+  padding: 0px 0px 0px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container7 {
+  padding: 0px 0px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-8 {
+  background: #161616;
+  border-radius: 9999px;
+  border-style: solid;
+  border-color: #e7e8ec;
+  border-width: 1px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.component-1 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: -22px;
+  top: 1616px;
+  width: 1920px;
+  height: 4332px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span2 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span3 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span4 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span5 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span6 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span7 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span8 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span9 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span10 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span11 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span12 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span13 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span14 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span15 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span16 {
+  color: #ffffff;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.the-taj-mahal-is-one-of-the-most-famous-monuments-in-the-world-known-for-its-stunning-beauty-and-historical-significance-here-s-a-detailed-breakdown-of-its-history-architecture-cultural-significance-and-interesting-facts-basic-information-name-taj-mahal-location-agra-uttar-pradesh-india-built-by-mughal-emperor-shah-jahan-construction-period-1632-1653-21-years-architect-ustad-ahmad-lahauri-chief-architect-material-used-white-marble-purpose-mausoleum-for-mumtaz-mahal-shah-jahan-s-wife-unesco-world-heritage-site-designated-in-1983-historical-background-the-taj-mahal-was-commissioned-by-mughal-emperor-shah-jahan-in-memory-of-his-beloved-wife-mumtaz-mahal-who-died-in-1631-while-giving-birth-to-their-14th-child-the-emperor-was-heartbroken-and-decided-to-construct-an-extravagant-mausoleum-to-honor-her-the-construction-began-in-1632-and-took-around-21-years-to-complete-with-thousands-of-artisans-and-laborers-working-on-it-after-shah-jahan-was-overthrown-by-his-son-aurangzeb-he-spent-his-last-years-in-captivity-at-the-agra-fort-from-where-he-could-only-see-the-taj-mahal-from-a-distance-after-his-death-in-1666-he-was-buried-beside-mumtaz-mahal-in-the-taj-mahal-s-main-chamber-architectural-features-the-taj-mahal-is-considered-a-masterpiece-of-mughal-architecture-blending-persian-islamic-and-indian-styles-1-main-structure-the-main-building-is-a-square-shaped-mausoleum-with-a-large-central-dome-surrounded-by-four-smaller-domes-the-central-dome-is-about-73-meters-240-feet-tall-and-has-a-lotus-shaped-finial-on-top-inside-the-tomb-the-cenotaphs-of-mumtaz-mahal-and-shah-jahan-are-placed-but-the-actual-graves-are-in-a-lower-crypt-2-minarets-the-taj-mahal-has-four-minarets-each-40-meters-131-feet-tall-these-minarets-are-slightly-tilted-outward-to-prevent-them-from-falling-onto-the-main-structure-in-case-of-an-earthquake-3-intricate-decorations-the-walls-are-adorned-with-calligraphy-floral-patterns-and-precious-stones-like-jade-turquoise-and-sapphire-the-calligraphy-contains-verses-from-the-quran-written-in-elegant-thuluth-script-the-taj-mahal-s-marble-changes-color-depending-on-the-time-of-day-pinkish-in-the-morning-white-in-the-afternoon-and-golden-at-sunset-4-the-gardens-the-taj-mahal-is-surrounded-by-a-400-meter-long-charbagh-persian-style-garden-symbolizing-paradise-a-reflecting-pool-in-front-of-the-taj-mahal-enhances-its-beauty-by-mirroring-its-image-5-the-mosque-guesthouse-to-the-left-of-the-taj-mahal-is-a-red-sandstone-mosque-used-for-prayers-to-the-right-is-a-guesthouse-mehman-khana-built-for-visitors-cultural-and-historical-significance-symbol-of-love-the-taj-mahal-is-widely-regarded-as-a-symbol-of-eternal-love-mughal-art-it-is-one-of-the-finest-examples-of-mughal-architecture-world-wonder-it-is-one-of-the-new-seven-wonders-of-the-world-declared-in-2007-tourist-attraction-it-attracts-7-8-million-visitors-every-year-from-around-the-world-interesting-facts-massive-workforce-more-than-20-000-artisans-and-laborers-worked-on-its-construction-imported-materials-white-marble-was-brought-from-makrana-rajasthan-india-while-other-precious-stones-came-from-tibet-sri-lanka-china-and-arabia-changing-colors-the-taj-mahal-appears-different-at-different-times-of-the-day-due-to-the-sunlight-british-modifications-during-the-british-colonial-era-lord-curzon-ordered-restoration-work-in-the-late-19th-century-the-original-golden-finial-on-the-dome-was-replaced-with-a-brass-replica-threats-and-preservation-pollution-and-environmental-factors-have-led-to-discoloration-so-the-indian-government-has-taken-steps-to-protect-it-including-restrictions-on-nearby-industrial-activities-rumors-of-destruction-some-legends-claim-that-shah-jahan-planned-to-build-a-black-taj-mahal-opposite-the-yamuna-river-as-his-own-mausoleum-but-this-remains-unproven-unesco-protection-listed-as-a-unesco-world-heritage-site-in-1983-ensuring-its-preservation-conclusion-the-taj-mahal-is-not-just-a-monument-but-a-masterpiece-of-art-love-and-history-it-remains-one-of-the-most-visited-and-admired-structures-in-the-world-standing-as-an-everlasting-testament-to-the-grandeur-of-the-mughal-empire-and-the-power-of-love-span17 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.taj-mahal2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 96px;
+  font-weight: 500;
+  position: absolute;
+  left: 576.23px;
+  top: 242.13px;
+  width: 785px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer {
+  background: #ffffff;
+  padding: 0px 359px 0px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 459px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+.container8 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.container9 {
+  padding: 96px 0.01px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-28, 28px);
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.margin3 {
+  padding: 0px 0px 24px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container10 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-s, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.heading-3 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.about {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 13.5625px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.list2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.item2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text4 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-margin {
+  padding: 4px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.link-contact-us {
+  color: #ff8000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-link-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-link-font-size, 16px);
+  line-height: var(--fotonvrcom-semantic-link-line-height, 24px);
+  font-weight: var(--fotonvrcom-semantic-link-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.policies {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 12.796875px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.text5 {
+  color: #000000;
+  text-align: left;
+  font-family: var(--font-family-font-2, "Inter-Regular", sans-serif);
+  font-size: var(--font-size-16, 16px);
+  line-height: var(--line-height-24, 24px);
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.in-market {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 13.234375px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.join-us {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 12.03125px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container11 {
+  padding: 32px 431.87px 32px 431.86px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.text6 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 14px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

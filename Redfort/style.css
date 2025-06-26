@@ -1,0 +1,721 @@
+.redfort,
+.redfort * {
+  box-sizing: border-box;
+}
+.redfort {
+  height: 6261px;
+  position: relative;
+  overflow-y: auto;
+}
+.image {
+  width: 1931px;
+  height: 1164px;
+  position: absolute;
+  left: 0.23px;
+  top: 331.13px;
+  object-fit: cover;
+}
+.container {
+  padding: 584px 940px 584px 940px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  height: 1200px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.for-video-click-on-it {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 96px;
+  font-weight: 500;
+  text-decoration: underline;
+  opacity: 0.8;
+  position: absolute;
+  left: 506.23px;
+  top: 795.13px;
+  width: 907px;
+  height: 318px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  opacity: 0.3;
+  width: 1920px;
+  height: 1017px;
+  position: absolute;
+  left: 0.23px;
+  top: 446.13px;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1920px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  backdrop-filter: blur(4px);
+}
+.container2 {
+  padding: 24px 96px 24px 96px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-8 {
+  flex-shrink: 0;
+  width: 204px;
+  height: 204px;
+  position: relative;
+  object-fit: cover;
+}
+.margin {
+  margin: 0 0 0 0px;
+  padding: 0px 0px 0px 925.92px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex: 1;
+  min-width: var(--width-64208, 642.08px);
+  position: relative;
+}
+.container4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-12, 12px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-4 {
+  padding: 14px 20px 14px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container5 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 15.75px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-family-font-2, "Inter-Regular", sans-serif);
+  font-size: 15.75px;
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-7 {
+  background: #ff8000;
+  border-radius: 8px;
+  padding: 8px 20px 8px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container6 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 14.5px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.margin2 {
+  margin: 0 0 0 0px;
+  padding: 0px 0px 0px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container7 {
+  padding: 0px 0px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-8 {
+  background: #161616;
+  border-radius: 9999px;
+  border-style: solid;
+  border-color: #e7e8ec;
+  border-width: 1px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.component-1 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history {
+  color: #ffffff;
+  text-align: left;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 11px;
+  top: 1550px;
+  width: 1920px;
+  height: 4332px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span2 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span3 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span4 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span5 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span6 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span7 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span8 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span9 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span10 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span11 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span12 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span13 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span14 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span15 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span16 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span17 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span18 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span19 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span20 {
+  color: #ffffff;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.red-fort-lal-qila-a-symbol-of-india-s-history-and-power-the-red-fort-lal-qila-is-one-of-india-s-most-significant-historical-monuments-it-was-the-main-residence-of-the-mughal-emperors-for-nearly-200-years-and-is-now-a-symbol-of-india-s-rich-past-and-its-independence-basic-information-name-red-fort-lal-qila-location-old-delhi-india-built-by-mughal-emperor-shah-jahan-construction-period-1638-1648-10-years-architectural-style-mughal-persian-and-indian-influences-material-used-red-sandstone-and-marble-purpose-royal-residence-administrative-center-unesco-world-heritage-site-declared-in-2007-historical-background-the-red-fort-was-commissioned-by-shah-jahan-in-1638-after-he-decided-to-move-his-capital-from-agra-to-delhi-it-was-completed-in-1648-and-became-the-political-and-cultural-center-of-the-mughal-empire-the-fort-remained-under-mughal-rule-until-1857-when-the-british-took-control-after-the-indian-rebellion-of-1857-after-india-gained-independence-in-1947-prime-minister-jawaharlal-nehru-gave-his-famous-speech-from-the-fort-s-lahori-gate-a-tradition-that-continues-every-year-on-august-15-independence-day-architectural-features-the-red-fort-is-a-massive-256-acre-complex-surrounded-by-2-5-km-long-red-sandstone-walls-that-stand-18-to-33-meters-59-to-108-feet-high-1-lahori-gate-the-main-entrance-to-the-fort-facing-the-historic-city-of-delhi-every-year-the-prime-minister-hoists-the-indian-flag-here-on-independence-day-august-15-2-delhi-gate-another-important-entrance-used-by-the-royals-for-ceremonial-processions-3-diwan-i-aam-hall-of-public-audience-a-large-pavilion-where-the-emperor-addressed-the-public-and-heard-their-grievances-features-a-white-marble-throne-where-shah-jahan-sat-during-official-proceedings-4-diwan-i-khas-hall-of-private-audience-a-lavish-marble-chamber-where-the-emperor-met-with-high-ranking-officials-and-foreign-dignitaries-once-housed-the-famous-peacock-throne-which-was-later-taken-by-persian-ruler-nadir-shah-in-1739-the-famous-inscription-on-its-wall-reads-if-there-be-a-paradise-on-earth-it-is-this-it-is-this-it-is-this-5-mumtaz-mahal-and-rang-mahal-mumtaz-mahal-a-palace-for-the-royal-women-now-converted-into-a-museum-rang-mahal-palace-of-colors-known-for-its-gold-plated-ceilings-fountains-and-vibrant-decorations-6-moti-masjid-pearl-mosque-built-by-aurangzeb-in-1659-as-a-private-mosque-for-the-royal-family-made-of-pure-white-marble-7-hayat-bakhsh-bagh-life-giving-garden-a-beautiful-mughal-style-garden-with-water-channels-and-fountains-cultural-and-historical-significance-political-center-it-was-the-seat-of-mughal-power-for-nearly-200-years-symbol-of-independence-the-fort-represents-india-s-struggle-for-freedom-architectural-marvel-a-mix-of-persian-mughal-and-indian-styles-unesco-heritage-site-recognized-as-a-site-of-historical-importance-in-2007-interesting-facts-originally-white-some-historical-reports-suggest-that-the-fort-was-initially-covered-in-white-limestone-but-over-time-it-was-painted-red-british-modifications-the-british-destroyed-many-structures-inside-the-fort-and-converted-it-into-a-military-base-peacock-throne-the-fort-once-housed-the-peacock-throne-embedded-with-koh-i-noor-diamond-which-was-later-looted-by-nadir-shah-secret-tunnels-some-believe-that-underground-tunnels-connected-the-red-fort-to-other-mughal-structures-like-salimgarh-fort-and-even-agra-fort-independence-day-celebrations-every-august-15-the-indian-prime-minister-hoists-the-national-flag-and-addresses-the-nation-from-the-red-fort-conclusion-the-red-fort-stands-as-a-symbol-of-india-s-glorious-past-and-independence-it-attracts-millions-of-visitors-every-year-and-remains-a-powerful-reminder-of-india-s-mughal-heritage-and-colonial-history-span21 {
+  color: #ffffff;
+  font-family: "IrishGrover-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.redfort2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 96px;
+  font-weight: 500;
+  position: absolute;
+  left: 576.23px;
+  top: 242.13px;
+  width: 785px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer {
+  background: #ffffff;
+  padding: 0px 359px 0px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 459px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+.container8 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.container9 {
+  padding: 96px 0.01px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-28, 28px);
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.margin3 {
+  padding: 0px 0px 24px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container10 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-s, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.heading-3 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.about {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 13.5625px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.list2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.item2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text4 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-margin {
+  padding: 4px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.link-contact-us {
+  color: #ff8000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-link-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-link-font-size, 16px);
+  line-height: var(--fotonvrcom-semantic-link-line-height, 24px);
+  font-weight: var(--fotonvrcom-semantic-link-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.policies {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 12.796875px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.text5 {
+  color: #000000;
+  text-align: left;
+  font-family: var(--font-family-font-2, "Inter-Regular", sans-serif);
+  font-size: var(--font-size-16, 16px);
+  line-height: var(--line-height-24, 24px);
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.in-market {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 13.234375px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.join-us {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 12.03125px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container11 {
+  padding: 32px 431.87px 32px 431.86px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.text6 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 14px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

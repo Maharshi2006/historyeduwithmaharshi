@@ -1,0 +1,6244 @@
+.index,
+.index * {
+  box-sizing: border-box;
+}
+.index {
+  background: #0d102d;
+  height: 1519px;
+  position: relative;
+}
+.body {
+  background: #0d102d;
+  height: 10222px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.section {
+  padding: 232px 1232px 575px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: var(--height-1200, 1200px);
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.picture {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  top: 0px;
+}
+.gradient-1699095381781-jpg {
+  width: 100%;
+  flex-shrink: 0;
+  height: 1200px;
+  max-width: var(--width-1920, 1920px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.section-paints {
+  flex-shrink: 0;
+  min-height: var(--height-1200, 1200px);
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.heading-1 {
+  padding: 103px 0px 96px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-xs, 8px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.revolutionize-school-education-with {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-1-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-1-font-size, 51.84375px);
+  font-weight: var(--fotonvrcom-semantic-heading-1-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container {
+  padding: 7px 296.87px 8px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.virtual-reality {
+  background: linear-gradient(
+    270deg,
+    rgba(255, 115, 86, 1) 0%,
+    rgba(255, 89, 226, 1) 25.519999861717224%,
+    rgba(82, 221, 246, 1) 50%,
+    rgba(234, 223, 78, 1) 76.03999972343445%,
+    rgba(255, 115, 86, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-1-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-1-font-size, 52.609375px);
+  font-weight: var(--fotonvrcom-semantic-heading-1-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section2 {
+  padding: 64px 359px 64px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 1200px;
+}
+.container2 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.container3 {
+  padding: 0px 0px 56px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.heading-2 {
+  padding: 5px 0px 6px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.impact-of-vr-in-education-and-classroom-engagement {
+  color: #b9a638;
+  text-align: center;
+  font-family: var(--font-family-font-2, "Inter-Regular", sans-serif);
+  font-size: 37.5px;
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container5 {
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-l, 48px);
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.component-1 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e7e8ec;
+  border-width: 1px;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.background {
+  background: var(--color-violet-82, #beaaf7);
+  border-radius: 9999px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.background2 {
+  background: var(--color-violet-67, #8358ff);
+  border-radius: 9999px;
+  padding: 12px 3.55px 12px 3.53px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.component-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.text {
+  color: var(--fotonvrcom-white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-3 {
+  padding: 2px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 20px;
+  left: 20px;
+  top: 116px;
+}
+.students-interest {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 18.125px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container6 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 20px;
+  left: 20px;
+  top: 156px;
+}
+.vr-transforms-learning-into-a-captivating-adventure-with-3-d-content-and-engaging-graphics-sparking-curiosity-for-deeper-academic-exploration {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background3 {
+  background: var(--color-spring-green-86, #c4f2e3);
+  border-radius: 9999px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.background4 {
+  background: var(--color-spring-green-39, #10b981);
+  border-radius: 9999px;
+  padding: 12px 7.99px 12px 7.98px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.makes-learning-easy {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 18.59375px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.virtual-reality-technology-simplifies-learning-transforming-difficult-concepts-into-interactive-hands-on-experiences-thereby-enhancing-understanding-and-engagement {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background5 {
+  background: var(--color-azure-89, #cddffb);
+  border-radius: 9999px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.background6 {
+  background: var(--color-azure-62, #428af8);
+  border-radius: 9999px;
+  padding: 12px 7.99px 12px 7.98px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.improved-teacher-s-communication {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 18.75px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container7 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 20px;
+  left: 20px;
+  top: 180px;
+}
+.with-the-help-of-foton-vr-teachers-have-the-ability-to-provide-textbook-information-with-real-life-experiences-it-improves-teacher-s-communication {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background7 {
+  background: var(--color-grey-91, #e5e7eb);
+  border-radius: 9999px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.background8 {
+  background: var(--color-red-60, #ef4444);
+  border-radius: 9999px;
+  padding: 12px 7.99px 12px 7.98px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.comfortable-hardware {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 19.21875px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.you-can-conduct-various-practical-experiments-and-experiences-in-a-safe-virtual-space-without-the-need-for-physical-resources-or-heavy-hardware {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container8 {
+  padding: 24px 359px 24px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 1800px;
+}
+.container9 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-l, 48px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.container10 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.heading-22 {
+  padding: 4px 2.08px 4px 2.08px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.enthral-your-brain-with-amazing-impressions-of-the-lessons-through-virtual-reality {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 40px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container11 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container12 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-3 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #d1d5db;
+  border-width: 2px;
+  flex: 1;
+  width: 358px;
+  max-width: var(--width-384, 384px);
+  position: relative;
+}
+.component-6 {
+  padding: 0px 129px 0px 129px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 18px;
+  left: 18px;
+  top: 38px;
+}
+.component-2 {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: visible;
+}
+.heading-5 {
+  padding: 2px 76.66px 3px 76.64px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 18px;
+  left: 18px;
+  top: 122px;
+}
+.hybrid-learning {
+  color: #e3dd21;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 23.8125px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container13 {
+  padding: 0px 18.02px 0px 18.02px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 18px;
+  left: 18px;
+  top: 167px;
+}
+.an-expert-teacher-describes-the-concept-while-students-enter-the-world-of-virtual-reality-to-visually-grasp-the-topic-taught {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-22 {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+}
+.group {
+  width: 100%;
+  height: 94.24%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 2.88%;
+  top: 2.88%;
+  overflow: visible;
+}
+.heading-52 {
+  padding: 2px 42.42px 3px 42.41px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 18px;
+  left: 18px;
+  top: 122px;
+}
+.immersive-experience {
+  color: #ebf13d;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container14 {
+  padding: 0px 13.27px 0px 13.27px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 18px;
+  left: 18px;
+  top: 167px;
+}
+.complex-science-topics-become-easy-to-comprehend-through-holistic-vr-and-360-virtual-science-lab {
+  color: #fafcff;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 15.875px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-32 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #d1d5db;
+  border-width: 2px;
+  padding: 26px 18px 38px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-xs, 8px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  width: 358px;
+  max-width: var(--width-384, 384px);
+  position: relative;
+}
+.component-62 {
+  padding: 0px 121px 0px 121px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-23 {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  position: relative;
+}
+.vector {
+  width: 16.84%;
+  height: 15.52%;
+  position: absolute;
+  right: 61.16%;
+  left: 22%;
+  bottom: 49.75%;
+  top: 34.74%;
+  overflow: visible;
+}
+.vector2 {
+  width: 4.73%;
+  height: 7.49%;
+  position: absolute;
+  right: 64.96%;
+  left: 30.31%;
+  bottom: 45.28%;
+  top: 47.23%;
+  overflow: visible;
+}
+.vector3 {
+  width: 5.23%;
+  height: 7.99%;
+  position: absolute;
+  right: 64.71%;
+  left: 30.06%;
+  bottom: 45.03%;
+  top: 46.98%;
+  overflow: visible;
+}
+.vector4 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 62.14%;
+  left: 34.48%;
+  bottom: 51.97%;
+  top: 46.76%;
+  transform: translate(-0.95px, 0.06px);
+  overflow: visible;
+}
+.vector5 {
+  width: 2.03%;
+  height: 3.79%;
+  position: absolute;
+  right: 64.93%;
+  left: 33.05%;
+  bottom: 49.55%;
+  top: 46.65%;
+  overflow: visible;
+}
+.vector6 {
+  width: 6.91%;
+  height: 6.92%;
+  position: absolute;
+  right: 66.1%;
+  left: 26.99%;
+  bottom: 53.3%;
+  top: 39.78%;
+  overflow: visible;
+}
+.vector7 {
+  width: 3.42%;
+  height: 8.52%;
+  position: absolute;
+  right: 66.52%;
+  left: 30.06%;
+  bottom: 46.31%;
+  top: 45.17%;
+  overflow: visible;
+}
+.vector8 {
+  width: 3.37%;
+  height: 1.27%;
+  position: absolute;
+  right: 67%;
+  left: 29.62%;
+  bottom: 51.46%;
+  top: 47.27%;
+  transform: translate(0.06px, -0.29px);
+  overflow: visible;
+}
+.vector9 {
+  width: 3.95%;
+  height: 2.05%;
+  position: absolute;
+  right: 66.64%;
+  left: 29.42%;
+  bottom: 51.18%;
+  top: 46.77%;
+  overflow: visible;
+}
+.vector10 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 66.85%;
+  left: 29.77%;
+  bottom: 50.08%;
+  top: 48.65%;
+  transform: translate(0.06px, -0.29px);
+  overflow: visible;
+}
+.vector11 {
+  width: 3.87%;
+  height: 2.04%;
+  position: absolute;
+  right: 66.53%;
+  left: 29.6%;
+  bottom: 49.91%;
+  top: 48.04%;
+  overflow: visible;
+}
+.vector12 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 66.68%;
+  left: 29.94%;
+  bottom: 48.82%;
+  top: 49.91%;
+  transform: translate(0.06px, -0.29px);
+  overflow: visible;
+}
+.vector13 {
+  width: 3.93%;
+  height: 2.06%;
+  position: absolute;
+  right: 66.31%;
+  left: 29.76%;
+  bottom: 48.65%;
+  top: 49.28%;
+  overflow: visible;
+}
+.vector14 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 66.52%;
+  left: 30.1%;
+  bottom: 47.56%;
+  top: 51.17%;
+  transform: translate(0.06px, -0.29px);
+  overflow: visible;
+}
+.vector15 {
+  width: 3.88%;
+  height: 2.04%;
+  position: absolute;
+  right: 66.21%;
+  left: 29.9%;
+  bottom: 47.39%;
+  top: 50.57%;
+  overflow: visible;
+}
+.vector16 {
+  width: 5.61%;
+  height: 7.91%;
+  position: absolute;
+  right: 27.65%;
+  left: 66.74%;
+  bottom: 42.09%;
+  top: 50%;
+  overflow: visible;
+}
+.vector17 {
+  width: 6.12%;
+  height: 8.42%;
+  position: absolute;
+  right: 27.39%;
+  left: 66.49%;
+  bottom: 41.84%;
+  top: 49.74%;
+  overflow: visible;
+}
+.vector18 {
+  width: 40.03%;
+  height: 16.38%;
+  position: absolute;
+  right: 29.07%;
+  left: 30.9%;
+  bottom: 31.3%;
+  top: 52.32%;
+  overflow: visible;
+}
+.vector19 {
+  width: 40.55%;
+  height: 16.88%;
+  position: absolute;
+  right: 28.8%;
+  left: 30.65%;
+  bottom: 31.05%;
+  top: 52.07%;
+  overflow: visible;
+}
+.vector20 {
+  width: 2.51%;
+  height: 11.88%;
+  position: absolute;
+  right: 47.62%;
+  left: 49.87%;
+  bottom: 35.08%;
+  top: 53.04%;
+  overflow: visible;
+}
+.vector21 {
+  width: 3.02%;
+  height: 12.38%;
+  position: absolute;
+  right: 47.37%;
+  left: 49.61%;
+  bottom: 34.83%;
+  top: 52.79%;
+  overflow: visible;
+}
+.vector22 {
+  width: 0.5%;
+  height: 5.04%;
+  position: absolute;
+  right: 55.63%;
+  left: 43.87%;
+  bottom: 37.02%;
+  top: 57.94%;
+  overflow: visible;
+}
+.vector23 {
+  width: 2.52%;
+  height: 2.51%;
+  position: absolute;
+  right: 47.65%;
+  left: 49.83%;
+  bottom: 45.84%;
+  top: 51.65%;
+  transform: translate(0px, -0.05px);
+  overflow: visible;
+}
+.vector24 {
+  width: 3.04%;
+  height: 3.04%;
+  position: absolute;
+  right: 47.38%;
+  left: 49.58%;
+  bottom: 45.61%;
+  top: 51.34%;
+  overflow: visible;
+}
+.vector25 {
+  width: 20.79%;
+  height: 20.8%;
+  position: absolute;
+  right: 38.47%;
+  left: 40.74%;
+  bottom: 53.02%;
+  top: 26.18%;
+  overflow: visible;
+}
+.vector26 {
+  width: 21.3%;
+  height: 21.29%;
+  position: absolute;
+  right: 38.21%;
+  left: 40.49%;
+  bottom: 52.78%;
+  top: 25.93%;
+  overflow: visible;
+}
+.vector27 {
+  width: 4.88%;
+  height: 4.21%;
+  position: absolute;
+  right: 53.85%;
+  left: 41.27%;
+  bottom: 52.58%;
+  top: 43.21%;
+  transform: translate(0.04px, -0.05px);
+  overflow: visible;
+}
+.vector28 {
+  width: 5.38%;
+  height: 4.71%;
+  position: absolute;
+  right: 53.55%;
+  left: 41.06%;
+  bottom: 52.38%;
+  top: 42.91%;
+  overflow: visible;
+}
+.vector29 {
+  width: 4.89%;
+  height: 4.21%;
+  position: absolute;
+  right: 39.62%;
+  left: 55.5%;
+  bottom: 52.91%;
+  top: 42.88%;
+  transform: translate(0.04px, -0.05px);
+  overflow: visible;
+}
+.vector30 {
+  width: 5.38%;
+  height: 4.71%;
+  position: absolute;
+  right: 39.32%;
+  left: 55.29%;
+  bottom: 52.72%;
+  top: 42.57%;
+  overflow: visible;
+}
+.vector31 {
+  width: 14.91%;
+  height: 14.2%;
+  position: absolute;
+  right: 41.71%;
+  left: 43.38%;
+  bottom: 48.05%;
+  top: 37.76%;
+  overflow: visible;
+}
+.vector32 {
+  width: 15.41%;
+  height: 14.68%;
+  position: absolute;
+  right: 41.47%;
+  left: 43.13%;
+  bottom: 47.8%;
+  top: 37.52%;
+  overflow: visible;
+}
+.vector33 {
+  width: 1.76%;
+  height: 3.59%;
+  position: absolute;
+  right: 48.06%;
+  left: 50.18%;
+  bottom: 49.78%;
+  top: 46.63%;
+  overflow: visible;
+}
+.vector34 {
+  width: 2.26%;
+  height: 4.09%;
+  position: absolute;
+  right: 47.81%;
+  left: 49.93%;
+  bottom: 49.53%;
+  top: 46.38%;
+  overflow: visible;
+}
+.vector35 {
+  width: 8.19%;
+  height: 8.39%;
+  position: absolute;
+  right: 44.61%;
+  left: 47.2%;
+  bottom: 63.52%;
+  top: 28.09%;
+  overflow: visible;
+}
+.vector36 {
+  width: 8.69%;
+  height: 8.89%;
+  position: absolute;
+  right: 44.36%;
+  left: 46.95%;
+  bottom: 63.27%;
+  top: 27.84%;
+  overflow: visible;
+}
+.vector37 {
+  width: 22.9%;
+  height: 9.87%;
+  position: absolute;
+  right: 37.63%;
+  left: 39.47%;
+  bottom: 54.29%;
+  top: 35.83%;
+  overflow: visible;
+}
+.vector38 {
+  width: 23.4%;
+  height: 10.37%;
+  position: absolute;
+  right: 37.38%;
+  left: 39.21%;
+  bottom: 54.05%;
+  top: 35.58%;
+  overflow: visible;
+}
+.vector39 {
+  width: 1.92%;
+  height: 1.92%;
+  position: absolute;
+  right: 55.87%;
+  left: 42.2%;
+  bottom: 60.64%;
+  top: 37.43%;
+  overflow: visible;
+}
+.vector40 {
+  width: 1.92%;
+  height: 1.93%;
+  position: absolute;
+  right: 55.87%;
+  left: 42.2%;
+  bottom: 55.9%;
+  top: 42.18%;
+  overflow: visible;
+}
+.vector41 {
+  width: 1.92%;
+  height: 1.92%;
+  position: absolute;
+  right: 40.37%;
+  left: 57.71%;
+  bottom: 60.64%;
+  top: 37.43%;
+  overflow: visible;
+}
+.vector42 {
+  width: 1.92%;
+  height: 1.93%;
+  position: absolute;
+  right: 40.37%;
+  left: 57.71%;
+  bottom: 55.9%;
+  top: 42.18%;
+  overflow: visible;
+}
+.vector43 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 26.86%;
+  left: 69.77%;
+  bottom: 49.54%;
+  top: 49.19%;
+  transform: translate(-1.58px, -0.15px);
+  overflow: visible;
+}
+.vector44 {
+  width: 2.34%;
+  height: 3.84%;
+  position: absolute;
+  right: 30.12%;
+  left: 67.54%;
+  bottom: 47.45%;
+  top: 48.71%;
+  overflow: visible;
+}
+.vector45 {
+  width: 6.92%;
+  height: 6.93%;
+  position: absolute;
+  right: 23.52%;
+  left: 69.55%;
+  bottom: 50.61%;
+  top: 42.46%;
+  overflow: visible;
+}
+.vector46 {
+  width: 4.35%;
+  height: 8.23%;
+  position: absolute;
+  right: 26.98%;
+  left: 68.67%;
+  bottom: 44.02%;
+  top: 47.76%;
+  overflow: visible;
+}
+.vector47 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 23.69%;
+  left: 72.93%;
+  bottom: 47.35%;
+  top: 51.38%;
+  transform: translate(-2.49px, -1.58px);
+  overflow: visible;
+}
+.vector48 {
+  width: 3.8%;
+  height: 2.33%;
+  position: absolute;
+  right: 26.63%;
+  left: 69.57%;
+  bottom: 48.51%;
+  top: 49.15%;
+  overflow: visible;
+}
+.vector49 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 24.03%;
+  left: 72.59%;
+  bottom: 46.12%;
+  top: 52.61%;
+  transform: translate(-2.49px, -1.58px);
+  overflow: visible;
+}
+.vector50 {
+  width: 3.8%;
+  height: 2.33%;
+  position: absolute;
+  right: 26.98%;
+  left: 69.22%;
+  bottom: 47.29%;
+  top: 50.38%;
+  overflow: visible;
+}
+.vector51 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 24.37%;
+  left: 72.25%;
+  bottom: 44.89%;
+  top: 53.83%;
+  transform: translate(-2.49px, -1.58px);
+  overflow: visible;
+}
+.vector52 {
+  width: 3.86%;
+  height: 2.34%;
+  position: absolute;
+  right: 27.25%;
+  left: 68.89%;
+  bottom: 46.05%;
+  top: 51.61%;
+  overflow: visible;
+}
+.vector53 {
+  width: 3.38%;
+  height: 1.27%;
+  position: absolute;
+  right: 24.71%;
+  left: 71.91%;
+  bottom: 43.67%;
+  top: 55.06%;
+  transform: translate(-2.49px, -1.58px);
+  overflow: visible;
+}
+.vector54 {
+  width: 3.8%;
+  height: 2.33%;
+  position: absolute;
+  right: 27.64%;
+  left: 68.56%;
+  bottom: 44.83%;
+  top: 52.83%;
+  overflow: visible;
+}
+.vector55 {
+  width: 0.5%;
+  height: 4.37%;
+  position: absolute;
+  right: 42.61%;
+  left: 56.89%;
+  bottom: 37.7%;
+  top: 57.94%;
+  overflow: visible;
+}
+.vector56 {
+  width: 13.02%;
+  height: 4.43%;
+  position: absolute;
+  right: 42.86%;
+  left: 44.12%;
+  bottom: 26.87%;
+  top: 68.7%;
+  overflow: visible;
+}
+.vector57 {
+  width: 13.52%;
+  height: 4.93%;
+  position: absolute;
+  right: 42.61%;
+  left: 43.87%;
+  bottom: 26.62%;
+  top: 68.45%;
+  overflow: visible;
+}
+.group2 {
+  width: 53.45%;
+  height: 25.2%;
+  position: absolute;
+  right: 22%;
+  left: 24.55%;
+  bottom: 26.62%;
+  top: 48.18%;
+  overflow: visible;
+}
+.heading-53 {
+  padding: 2px 59.12px 3px 59.11px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.enjoyable-learning {
+  color: #d4cf36;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container15 {
+  padding: 8px 9.67px 0px 9.66px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.vr-gaming-experience-seamlessly-stitches-learning-through-play-offering-an-amusing-experience {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section3 {
+  padding: 0px 359px 0px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 2261px;
+}
+.container16 {
+  padding: 96px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-56, 56px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.heading-23 {
+  padding: 5px 65.86px 6px 65.86px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.gear-up-for-a-fascinating-unforgettable-and-deep-learning-experience-with-foton-vr {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-family-font-2, "Inter-Regular", sans-serif);
+  font-size: 37.5px;
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container17 {
+  padding: 40px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-585, 58.5px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container18 {
+  flex-shrink: 0;
+  width: 585px;
+  height: 24px;
+  position: relative;
+}
+._3-d-elements-png {
+  width: 585px;
+  height: 475.89px;
+  position: absolute;
+  left: 0px;
+  top: 1.99px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container19 {
+  flex-shrink: 0;
+  width: 526.5px;
+  height: 582px;
+  position: relative;
+}
+.heading-24 {
+  padding: 4px 0px 4px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 64px;
+  top: 0px;
+}
+.explore-endless-creativity-through-the-lens-of-virtual-reality {
+  color: #fd2c9f;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 25.921875px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container20 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 64px;
+  top: 92px;
+}
+.foton-vr-s-immersive-vr-technology-creates-an-artificial-world-with-numerous-educational-activities-here-students-have-the-freedom-to-explore-experiment-and-encounter-a-multitude-of-things-fostering-their-creativity-and-imagination {
+  color: #ab2b2d;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 19.84375px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 30px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container21 {
+  padding: 8px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 64px;
+  top: 266px;
+}
+.component-24 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.margin {
+  padding: 0px 0px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container22 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-112 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text2 {
+  color: #ffebeb;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 18px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 27px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container23 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 64px;
+  top: 313px;
+}
+.component-25 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text3 {
+  color: #fffafa;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 18px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 27px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container24 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 64px;
+  top: 352px;
+}
+.component-26 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text4 {
+  color: #fffcfc;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 18px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 27px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container25 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 64px;
+  top: 391px;
+}
+.component-27 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text5 {
+  color: #fffefe;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 18px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 27px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-4 {
+  background: #ff8000;
+  border-radius: 9999px;
+  padding: 12px 32px 12px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 64px;
+  top: 454px;
+}
+.text6 {
+  color: var(--fotonvrcom-white, #ffffff);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container26 {
+  padding: 80px 0px 64px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-56, 56px);
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 3131px;
+}
+.heading-25 {
+  padding: 5px 446.27px 6px 446.25px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.we-have-world-s-largest-content-library-with-850-concepts {
+  color: #3c4cf0;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 36.09375px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container27 {
+  padding: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.container28 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.group-1-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 163.79px;
+  position: absolute;
+  left: 1988.99px;
+  bottom: 88.41px;
+  top: 88.41000366210938px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.article {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 329.18px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container29 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 18.35px;
+  left: 20.200000762939453px;
+  top: 292.51px;
+}
+.container30 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text7 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 13.396324157714844px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-butterfly-1-1716957432700-jpg {
+  height: 279.58px;
+  position: absolute;
+  right: 1.4px;
+  left: 1.5700000524520874px;
+  top: 1.39px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-11-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 147.67px;
+  position: absolute;
+  left: 1871.19px;
+  bottom: 84.33px;
+  top: 84.33000183105469px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.article2 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  padding: 1.33px 1.33px 16.33px 1.33px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-13, 13.01px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.figure-link-plant-3-1716957420376-jpg {
+  width: 100%;
+  flex-shrink: 0;
+  height: 286.68px;
+  max-width: var(--width-14501, 145.01px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.text8 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 11.71875px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-10-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 103.99px;
+  position: absolute;
+  left: 1727.05px;
+  bottom: 80.05px;
+  top: 80.05000305175781px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.article3 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 345.9px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container31 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 13.17px;
+  left: 11.4399995803833px;
+  top: 309.98px;
+}
+.text9 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 8.662610054016113px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-chimical-reaction-1716957442410-jpg {
+  height: 294.11px;
+  position: absolute;
+  right: 1.02px;
+  left: 0.8700000047683716px;
+  top: 1.27px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-9-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 46.02px;
+  position: absolute;
+  left: 1560.66px;
+  bottom: 73.98px;
+  top: 73.9800033569336px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.article4 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 358.04px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container32 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 8.22px;
+  left: 4.210000038146973px;
+  top: 322.12px;
+}
+.text10 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 4.995920181274414px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-space-shuttle-1716957392831-jpg {
+  height: 304.58px;
+  position: absolute;
+  right: 0.61px;
+  left: 0.3199999928474426px;
+  top: 1.23px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-8-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 42.87px;
+  position: absolute;
+  left: 1374.43px;
+  bottom: 64.54px;
+  top: 64.54000091552734px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.article5 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 376.92px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container33 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 16.27px;
+  left: -3.140000104904175px;
+  top: 340.11px;
+}
+.text11 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 2.890625px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-butterfly-2-1716957427059-jpg {
+  height: 320.7px;
+  position: absolute;
+  right: 1.16px;
+  left: -0.23000000417232513px;
+  top: 1.26px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-2-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 130.74px;
+  position: absolute;
+  left: 256.64px;
+  bottom: 34.46px;
+  top: 34.459999084472656px;
+}
+.article6 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 437.08px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container34 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 14.86px;
+  left: 16.989999771118164px;
+  top: 389.58px;
+}
+.component-152 {
+  padding: 0px 0px 1.45px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.figure-link-heart-1716957382298-jpg {
+  height: 370.9px;
+  position: absolute;
+  right: 1.11px;
+  left: 1.3300000429153442px;
+  top: 2.04px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-7-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 104.18px;
+  position: absolute;
+  left: 1166.97px;
+  bottom: 50.05px;
+  top: 50.04999923706055px;
+}
+.article7 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 405.9px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container35 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 15.42px;
+  left: 10.369999885559082px;
+  top: 366.83px;
+}
+.component-153 {
+  padding: 0px 0px 0.99px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text12 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 7.5px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-plant-2-1716957414827-jpg {
+  height: 345.33px;
+  position: absolute;
+  right: 1.17px;
+  left: 0.7900000214576721px;
+  top: 1.37px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-3-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 198.07px;
+  position: absolute;
+  left: 349px;
+  bottom: 20.16px;
+  top: 20.15999984741211px;
+}
+.article8 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 465.68px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container36 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 21.49px;
+  left: 25.90999984741211px;
+  top: 416.49px;
+}
+.container37 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  min-width: 60.6px;
+  position: relative;
+}
+.component-154 {
+  padding: 0px 0px 2.2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text13 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 10.016380310058594px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-car-pulling-1716957437644-jpg {
+  height: 395.21px;
+  position: absolute;
+  right: 1.63px;
+  left: 2.0299999713897705px;
+  top: 2.15px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-4-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 227.79px;
+  position: absolute;
+  left: 484.01px;
+  bottom: 9.08px;
+  top: 9.079999923706055px;
+}
+.article9 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 487.84px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container38 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 25.13px;
+  left: 28.700000762939453px;
+  top: 437.61px;
+}
+.container39 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  min-width: 71.05px;
+  position: relative;
+}
+.component-155 {
+  padding: 0.03px 0px 2.88px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text14 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 17.315780639648438px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-human-body-1716957376891-jpg {
+  height: 414.24px;
+  position: absolute;
+  right: 1.91px;
+  left: 2.2300000190734863px;
+  top: 2.12px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-6-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 164.28px;
+  position: absolute;
+  left: 933.27px;
+  bottom: 28.96px;
+  top: 28.959999084472656px;
+}
+.article10 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 448.08px;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.container40 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 21.23px;
+  left: 17.739999771118164px;
+  top: 404.92px;
+}
+.component-156 {
+  padding: 0px 0px 2.08px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text15 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 12.997469902038574px);
+  line-height: var(--fotonvrcom-inter-regular-line-height, 20px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.figure-link-chichen-itza-1716957402142-jpg {
+  height: 381.06px;
+  position: absolute;
+  right: 1.64px;
+  left: 1.350000023841858px;
+  top: 1.61px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.group-5-11 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 221.54px;
+  position: absolute;
+  left: 664.84px;
+  bottom: 0.03px;
+  top: 0.029999999329447746px;
+}
+.article11 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 2px;
+  padding: 2px 2px 25.99px 2px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 4px 6px -1px rgba(13, 16, 45, 0.1),
+    0px 2px 4px -2px rgba(13, 16, 45, 0.1);
+  overflow: hidden;
+}
+.figure-link-taj-mahel-1716957368897-jpg {
+  width: 100%;
+  flex-shrink: 0;
+  height: 429.95px;
+  max-width: 217.54px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container41 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  min-width: 62.11px;
+  position: relative;
+}
+.component-157 {
+  padding: 0.5px 0px 3.5px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-63 {
+  background: #ffffff;
+  border-radius: 9999px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 44px;
+  height: 48px;
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  translate: 0 -50%;
+  box-shadow: inset -5px -5px 10px 0px rgba(223, 227, 239, 1),
+    inset 2px 2px 6px 0px rgba(238, 241, 249, 1),
+    5px 5px 10px 0px rgba(108, 106, 212, 0.25);
+}
+.component-28 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-64 {
+  background: #ffffff;
+  border-radius: 9999px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 44px;
+  height: 48px;
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  translate: 0 -50%;
+  box-shadow: inset -5px -5px 10px 0px rgba(223, 227, 239, 1),
+    inset 2px 2px 6px 0px rgba(238, 241, 249, 1),
+    5px 5px 10px 0px rgba(108, 106, 212, 0.25);
+}
+.component-29 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.section4 {
+  padding: 96px 359px 0px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 3925px;
+}
+.container42 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-120, 120px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.heading-26 {
+  padding: 5px 87.5px 6px 87.5px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.transformative-learning-experiences-just-one-click-away {
+  color: #2e3ee2;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 37.34375px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container43 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.margin2 {
+  padding: 0px 0px 64px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.container44 {
+  padding: 0px 0px 24px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.heading-27 {
+  padding: 4px 0px 4px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.exploring-chemistry-beyond-text {
+  color: #d9ef33;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 26.03125px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.imagine-instead-of-reading-books-students-put-on-vr-headsets-and-suddenly-they-re-inside-the-world-of-chemistry-they-can-see-tiny-things-called-molecules-in-3-d-and-they-can-even-do-pretend-experiments-in-a-safe-virtual-space-they-can-even-take-a-ride-inside-a-cell-to-see-how-chemicals-work {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 20px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 30px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container45 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.pattern-circle-1-1699331942128-png {
+  opacity: 0.3;
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: -32px;
+  bottom: -15.26px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.pattern-circle-2-1699331951451-png {
+  opacity: 0.3;
+  width: 143px;
+  height: 143px;
+  position: absolute;
+  right: -48px;
+  top: -55.45px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.section5 {
+  padding: 96px 359px 0px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 4485px;
+}
+.container46 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.container47 {
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-l, 48px);
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.margin3 {
+  padding: 0px 0px 64px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.a-virtual-dive-into-the-human-body {
+  color: #a3fb4b;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 25.8125px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.students-can-venture-inside-the-human-body-witnessing-blood-flow-the-heartbeat-and-even-interacting-with-virtual-cells-to-understand-biology-in-a-whole-new-way-this-interactive-approach-makes-learning-about-the-human-body-captivating-and-insightful {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 19.84375px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 30px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section6 {
+  padding: 96px 359px 0px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 4877px;
+}
+.exploring-space-in-virtual-reality {
+  color: #e1bd2d;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 25.921875px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.with-virtual-reality-students-can-travel-to-planets-stand-on-their-surfaces-and-observe-celestial-movements-this-immersive-experience-helps-them-grasp-the-vastness-of-space-and-the-unique-characteristics-of-each-celestial-body {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 19.84375px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 30px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pattern-circle-1-1699331942128-png2 {
+  opacity: 0.3;
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: -32px;
+  bottom: -15.24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.pattern-circle-2-1699331951451-png2 {
+  opacity: 0.3;
+  width: 143px;
+  height: 143px;
+  position: absolute;
+  right: -48px;
+  top: -55.5px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.section7 {
+  padding: 96px 359px 96px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 5239px;
+}
+.overlay {
+  background: var(--color-blue-11-60, rgba(13, 16, 45, 0.6));
+  flex-shrink: 0;
+  width: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0px;
+  top: 0px;
+}
+.container48 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.heading-28 {
+  padding: 5px 0px 6px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.our-reach {
+  color: var(--fotonvrcom-white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 37.65625px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container49 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  flex-shrink: 0;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.we-are-dedicated-to-being-a-global-partner-reaching-clients-and-customers-worldwide-currently-we-offer-innovative-vr-and-ar-technology-in-education-enhancing-learning-experiences-in-numerous-countries-this-empowers-diverse-communities-and-makes-quality-education-more-accessible {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 20px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container50 {
+  padding: 24px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.tablist {
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 206.97px;
+  position: relative;
+}
+.component-7 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.container51 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.img-margin {
+  padding: 0px 0px 0px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 52px;
+  max-width: var(--width-20297, 202.97px);
+  position: relative;
+}
+.russia-flag-icon-svg {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 40px;
+  max-width: var(--width-19097, 190.97px);
+  position: relative;
+  overflow: hidden;
+}
+.component-65 {
+  padding: 0px 0.01px 0px 0.01px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 27.84px;
+  position: relative;
+  overflow: hidden;
+}
+.component-210 {
+  flex-shrink: 0;
+  width: 39.98px;
+  height: 27.84px;
+  position: relative;
+  overflow: hidden;
+}
+.group3 {
+  width: 99.78%;
+  height: 99.69%;
+  position: absolute;
+  right: 0.11%;
+  left: 0.11%;
+  bottom: 0.16%;
+  top: 0.16%;
+  overflow: visible;
+}
+.container52 {
+  padding: 2px 12px 3px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text16 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 17.96875px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-72 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 43.84px;
+}
+.united-arab-emirates-flag-icon-svg {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 40px;
+  max-width: var(--width-19097, 190.97px);
+  position: relative;
+  overflow: hidden;
+}
+.component-66 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.component-211 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text17 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 17.34375px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-73 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 83.84px;
+}
+.south-korea-flag-icon-svg {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 40px;
+  max-width: var(--width-19097, 190.97px);
+  position: relative;
+  overflow: hidden;
+}
+.component-67 {
+  padding: 0px 0.01px 0px 0.01px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 27.92px;
+  position: relative;
+  overflow: hidden;
+}
+.component-212 {
+  flex-shrink: 0;
+  width: 39.98px;
+  height: 27.92px;
+  position: relative;
+  overflow: hidden;
+}
+.group4 {
+  width: 99.08%;
+  height: 98.71%;
+  position: absolute;
+  right: 0.47%;
+  left: 0.45%;
+  bottom: 0.64%;
+  top: 0.64%;
+  overflow: visible;
+}
+.text18 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 19.21875px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-74 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 127.77px;
+}
+.saudi-arabia-flag-icon-svg {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 40px;
+  max-width: var(--width-19097, 190.97px);
+  position: relative;
+  overflow: hidden;
+}
+.component-68 {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 26.66px;
+  position: relative;
+  overflow: hidden;
+}
+.component-213 {
+  flex-shrink: 0;
+  width: 39.99px;
+  height: 26.66px;
+  position: relative;
+  overflow: visible;
+}
+.text19 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 19.0625px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-75 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 170.42px;
+}
+.south-africa-flag-icon-svg {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 40px;
+  max-width: var(--width-19097, 190.97px);
+  position: relative;
+  overflow: hidden;
+}
+.component-214 {
+  flex-shrink: 0;
+  width: 39.99px;
+  height: 26.66px;
+  position: relative;
+  overflow: hidden;
+}
+.clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.text20 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 18.125px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-76 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 213.08px;
+}
+.svg-margin {
+  padding: 0px 0px 0px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 52px;
+  position: relative;
+}
+.svg {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.component-215 {
+  flex: 1;
+  width: 40px;
+  position: relative;
+}
+.group5 {
+  width: 99.95%;
+  height: 100%;
+  position: absolute;
+  right: 0.02%;
+  left: 0.02%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.text21 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 17.65625px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-77 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 256.89px;
+}
+.container53 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.margin4 {
+  padding: 0px 0px 0px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 52px;
+  height: 27.81px;
+  position: relative;
+}
+.component-216 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 27.81px;
+  position: relative;
+}
+.group6 {
+  width: 99.97%;
+  height: 99.97%;
+  position: absolute;
+  right: 0.01%;
+  left: 0.02%;
+  bottom: 0.03%;
+  top: 0%;
+  overflow: visible;
+}
+.text22 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 17.8125px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-78 {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 296.89px;
+}
+.australia-flag-icon-svg {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 40px;
+  max-width: var(--width-19097, 190.97px);
+  position: relative;
+  overflow: hidden;
+}
+.component-69 {
+  padding: 0px 0.01px 0px 0.01px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 27.81px;
+  position: relative;
+  overflow: hidden;
+}
+.component-217 {
+  flex-shrink: 0;
+  width: 39.98px;
+  height: 27.81px;
+  position: relative;
+  overflow: hidden;
+}
+.group7 {
+  width: 99.98%;
+  height: 99.97%;
+  position: absolute;
+  right: 0.02%;
+  left: 0%;
+  bottom: 0.03%;
+  top: 0%;
+  overflow: visible;
+}
+.text23 {
+  color: var(--fotonvrcom-santas-gray, #a1a2b3);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 18.59375px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.margin5 {
+  margin: 0 0 0 -0.01px;
+  padding: 40px 193.52px 0px 193.52px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  min-width: var(--width-576, 576px);
+  position: relative;
+}
+.container54 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  flex-shrink: 0;
+  max-width: var(--width-576, 576px);
+  position: relative;
+}
+.container55 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.we-aim-to-provide-educational-content-worldwide-reaching-every-corner-of-the-globe-our-mission-is-to-deliver-ar-and-vr-technology-that-benefits-every-student-not-just-in-major-countries-but-also-in-smaller-nations-we-believe-that-quality-education-should-be-accessible-to-all {
+  color: var(--fotonvrcom-white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 19.6875px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.to-achieve-this-we-are-expanding-our-global-presence-and-partnerships-by-collaborating-with-us-you-can-help-us-make-a-positive-impact-on-students-everywhere-together-we-can-explore-exciting-opportunities-and-create-a-brighter-future-for-learners-around-the-world {
+  color: var(--fotonvrcom-white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 20px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section8 {
+  height: 530px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 5947.7px;
+  overflow: hidden;
+  filter: blur(2px);
+}
+.container56 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 576px;
+  max-width: var(--width-576, 576px);
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 96px;
+}
+.heading-29 {
+  padding: 5px 129.92px 6px 129.91px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.prestigious-clients {
+  color: #f4ff54;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 35.3125px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container57 {
+  padding: 2px 121.67px 2px 121.66px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.count-on-us-for-trustworthy-solutions {
+  color: #fffefe;
+  text-align: center;
+  font-family: var(--font-family-font-1, "SegoeUiSymbol-Regular", sans-serif);
+  font-size: 19.84375px;
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container58 {
+  background: #ffffff;
+  padding: 0px 0px 0px 7.1px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: -2376.06px;
+  left: -2268.469970703125px;
+  top: 248px;
+  filter: blur(2px);
+}
+.background-border {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.birlaopenminds-school-logo-1723007604379-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-332, 332px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.margin6 {
+  padding: 0px 0px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.background-border2 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.delhipublic-school-logo-1723007648878-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-332, 332px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.background-border3 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  padding: 25px 22.1px 25px 37.25px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.espalier-logo-1723007815591-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-34136, 341.36px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.jpjuniors-school-logo-1723007878357-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-332, 332px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.manovikas-school-logo-1723007921400-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-332, 332px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.marathamandal-school-logo-1723007959354-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-332, 332px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.ncert-logo-1723008012222-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-34136, 341.36px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.npskoramangala-school-logo-1723008097584-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-332, 332px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.sardindia-logo-1723008145236-png {
+  flex-shrink: 0;
+  width: 282px;
+  height: 200px;
+  max-width: var(--width-332, 332px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.background-border4 {
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  padding: 25px 21.46px 25px 37.9px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.section9 {
+  background: var(--color-grey-97, #f5f8fa);
+  padding: 96px 20px 0px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 6477.7px;
+}
+.container59 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 523px;
+  position: relative;
+}
+.container60 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 384px;
+  max-width: var(--width-384, 384px);
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+}
+.heading-210 {
+  padding: 5px 63.48px 6px 63.47px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.satisfied-users {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 35.46875px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container61 {
+  padding: 2px 19.66px 2px 19.64px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._10-k-users-those-who-already-tried-our-services {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 19.84375px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container62 {
+  padding: 20px 0px 52px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  right: 0.23px;
+  left: -0.2333984375px;
+  top: 168.17px;
+}
+.container63 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.container64 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 384px;
+  position: relative;
+}
+.background-border5 {
+  background: var(--fotonvrcom-white, #ffffff);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  padding: 21px 21px 21px 17px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container65 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.container66 {
+  display: flex;
+  flex-direction: row;
+  gap: var(--font-size-16, 16px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container67 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.iram-gayas-methodist-girls-school-1699097877993-png {
+  border-radius: 20px;
+  flex-shrink: 0;
+  width: 96px;
+  height: 96px;
+  max-width: var(--width-96, 96px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.component-218 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-219 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-220 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-221 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-222 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.margin7 {
+  padding: 0px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container68 {
+  padding: 12px 0px 4px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-7, 7px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-52 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.text24 {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-medium-font-size, 13.453125px);
+  font-weight: var(--fotonvrcom-inter-medium-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.methodist-girls-school-moradabad {
+  color: var(--color-blue-54, #7d7f96);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 12.8984375px);
+  letter-spacing: var(
+    --fotonvrcom-segoe-ui-symbol-regular-letter-spacing,
+    -0.32px
+  );
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container69 {
+  padding: 0px 5.19px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.picturization-captured-by-their-mind-will-be-immortal-they-can-t-forget-this-teaching-till-their-life-now-they-don-t-need-to-crept-their-science-topics-therefore-subject-has-become-more-interesting-among-the-students {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 13.5625px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 21px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background-border6 {
+  background: var(--fotonvrcom-white, #ffffff);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  padding: 21px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container70 {
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 96px;
+  position: relative;
+}
+.manju-singh-methodist-girls-school-96-x-96-1699097948582-png {
+  border-radius: 20px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container71 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: -4px;
+  top: 90px;
+}
+.component-223 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-224 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-225 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-226 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-227 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.methodist-girls-inter-college-moradabad {
+  color: var(--color-blue-54, #7d7f96);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 12.796875px);
+  letter-spacing: var(
+    --fotonvrcom-segoe-ui-symbol-regular-letter-spacing,
+    -0.32px
+  );
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container72 {
+  padding: 0px 3.2px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.virtual-labs-incorporate-various-pedagogical-techniques-that-help-learners-to-better-understand-the-theoretical-information-through-vr-technology-students-feel-like-they-have-entered-in-magical-world-where-they-can-learn-through-interesting-vision {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 14px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 21px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.aparna-kohli-birla-open-minds-school-1699097978567-png {
+  border-radius: 20px;
+  flex-shrink: 0;
+  width: 96px;
+  height: 96px;
+  max-width: var(--width-96, 96px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.component-228 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-229 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-230 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-231 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-232 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.birla-open-minds-school-jammu {
+  color: var(--color-blue-54, #7d7f96);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-size,
+    13.005000114440918px
+  );
+  letter-spacing: var(
+    --fotonvrcom-segoe-ui-symbol-regular-letter-spacing,
+    -0.32px
+  );
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container73 {
+  padding: 0px 10.94px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.relishable-experience-it-is-an-astonishing-technology-by-which-students-of-our-school-are-able-to-understand-the-mechanism-of-various-science-concepts-with-keen-interest-by-using-vr-labs-children-are-learning-through-experiences {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 14px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 21px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.kiri-lakshminarayan-m-g-girls-shainik-school-mahesana-1699098024678-png {
+  border-radius: 20px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.component-233 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-234 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-235 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-236 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-237 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.m-g-girls-shainik-school-mahesana {
+  color: var(--color-blue-54, #7d7f96);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-size,
+    13.005000114440918px
+  );
+  letter-spacing: var(
+    --fotonvrcom-segoe-ui-symbol-regular-letter-spacing,
+    -0.32px
+  );
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container74 {
+  padding: 0px 7.89px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.this-is-a-very-amazing-technology-using-it-a-child-can-virtually-touch-the-body-parts-atomic-structures-in-3-d-which-are-a-completely-new-experience-and-knowledge-for-them-thanks-to-foton-vr-for-building-this-incredible-technology {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 14px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 21px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pallavi-n-maratha-mandal-school-belgavi-1699098062764-png {
+  border-radius: 20px;
+  flex-shrink: 0;
+  width: 96px;
+  height: 96px;
+  max-width: var(--width-96, 96px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.component-238 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-239 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-240 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-241 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-242 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.maratha-mandal-school-belgavi {
+  color: var(--color-blue-54, #7d7f96);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-size,
+    13.005000114440918px
+  );
+  letter-spacing: var(
+    --fotonvrcom-segoe-ui-symbol-regular-letter-spacing,
+    -0.32px
+  );
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container75 {
+  padding: 0px 1.23px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.students-are-literally-dancing-and-laughing-while-studying-students-really-love-to-attend-vr-lab-and-there-is-a-gradual-increase-in-their-results-too-because-it-allows-students-to-have-fun-with-learn-thanks-to-foton-vr {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 14px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 21px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section10 {
+  height: 354px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 7096.7px;
+  overflow: hidden;
+}
+.heading-211 {
+  padding: 5px 100.72px 6px 100.72px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.awards-certificates {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 36.25px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container76 {
+  padding: 2px 4.73px 2px 4.72px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.foton-vr-has-been-honoured-for-the-very-prestigious-awards-and-received-industry-recognizations {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 19.84375px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container77 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 45.79px;
+  left: -53.529998779296875px;
+  top: 272px;
+}
+.background-border7 {
+  background: var(--fotonvrcom-white, #ffffff);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 50px;
+  position: relative;
+}
+.egovernance-award-1723005842985-png {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - 12.9px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.background-border8 {
+  background: var(--fotonvrcom-white, #ffffff);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 50px;
+  position: relative;
+}
+.etaward-1723005889710-png {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - -269.1px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.gesia-award-1723005945531-png {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - -551.1px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.iso-certified-company-1723006031052-png {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - -833.1px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.egovernance-award-1723005842985-png2 {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - -1115.1px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.etaward-1723005889710-png2 {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - -1396.46px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.gesia-award-1723005945531-png2 {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - -1678.46px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.iso-certified-company-1723006031052-png2 {
+  width: 282px;
+  height: 200px;
+  position: absolute;
+  left: calc(50% - -1960.46px);
+  top: calc(50% - 0px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.container78 {
+  padding: 80px 359px 0px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 7450.7px;
+}
+.section11 {
+  padding: 0px 36px 0px 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.container79 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 576px;
+  max-width: var(--width-576, 576px);
+  position: relative;
+}
+.heading-212 {
+  padding: 205px 146.74px 0px 146.73px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.foton-vr-in-news {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 35.78125px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container80 {
+  margin: -154px 0 0 0;
+  padding: 202px 47.98px 0px 47.97px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.exploring-foton-vr-bridging-realities-with-cutting-edge-technology {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 19.6875px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container81 {
+  margin: -142px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--font-size-40, 40px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container82 {
+  padding: 200px 0.01px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-l, 48px);
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.article12 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-8 {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.the-print-1723031412747-jpg {
+  flex-shrink: 0;
+  width: 344.66px;
+  height: 193.86px;
+  max-width: var(--width-34466, 344.66px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.component-9 {
+  padding: 2px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: var(--width-448, 448px);
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 233.86px;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text25 {
+  color: #131740;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-link-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-link-font-size, 18.28125px);
+  font-weight: var(--fotonvrcom-semantic-link-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.link-read-more {
+  color: #ff8000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-link-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-link-font-size, 14px);
+  font-weight: var(--fotonvrcom-semantic-link-font-weight, 400);
+  position: absolute;
+  left: 0px;
+  top: 295.86px;
+  width: 71.9px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-82 {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 2px;
+  overflow: hidden;
+}
+.news-by-the-times-of-india-newspaper-1723031466905-jpg {
+  flex-shrink: 0;
+  width: 344.67px;
+  height: 193.88px;
+  max-width: var(--width-34467, 344.67px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.component-92 {
+  padding: 2px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: var(--width-448, 448px);
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 233.88px;
+}
+.link-read-more2 {
+  color: #ff8000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-link-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-link-font-size, 14px);
+  font-weight: var(--fotonvrcom-semantic-link-font-weight, 400);
+  position: absolute;
+  left: 0px;
+  top: 295.88px;
+  width: 71.9px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.xrom-1723031495344-jpg {
+  flex-shrink: 0;
+  width: 344.66px;
+  height: 193.75px;
+  max-width: var(--width-34466, 344.66px);
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.component-93 {
+  padding: 2px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: var(--width-448, 448px);
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 233.75px;
+}
+.link-read-more3 {
+  color: #ff8000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-link-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-link-font-size, 14px);
+  font-weight: var(--fotonvrcom-semantic-link-font-weight, 400);
+  position: absolute;
+  left: 0px;
+  top: 319.75px;
+  width: 71.9px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container83 {
+  padding: 193.75px 492.58px 0px 492.58px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-42 {
+  background: #ff8000;
+  border-radius: 9999px;
+  padding: 12px 32px 12px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.section12 {
+  padding: 96px 359px 96px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 8070.7px;
+}
+.container84 {
+  flex-shrink: 0;
+  width: 1202px;
+  height: 592px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.container85 {
+  padding: 200px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: absolute;
+  right: 16px;
+  left: 16px;
+  top: 0px;
+}
+.container86 {
+  padding: 193.75px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 490.5px;
+  position: relative;
+}
+.frequently-asked-questions {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 36.5625px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-ve-shared-some-of-our-most-frequently-asked-questions {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 20px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container87 {
+  padding: 24px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  min-height: 344px;
+  position: relative;
+}
+.container88 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-20, 20px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  max-width: var(--width-600, 600px);
+  position: relative;
+}
+.border {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--color-grey-92, #e7e8ec);
+  border-width: 1px;
+  padding: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.label {
+  background: var(--fotonvrcom-white, #ffffff);
+  border-style: solid;
+  border-color: var(--color-grey-91, #e5e7eb);
+  border-width: 0px 0px 1px 0px;
+  padding: 14px 16px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.which-content-you-provide-in-vr-device {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-label-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-label-font-size, 16.171875px);
+  font-weight: var(--fotonvrcom-semantic-label-font-weight, 600);
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.what-is-vr-technology {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-label-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-label-font-size, 16.3125px);
+  font-weight: var(--fotonvrcom-semantic-label-font-weight, 600);
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.if-we-buy-your-kit-then-you-will-provide-all-the-content-or-is-there-any-hidden-charge-behind-it {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-label-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-label-font-size, 15.890625px);
+  font-weight: var(--fotonvrcom-semantic-label-font-weight, 600);
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.if-we-use-this-device-will-there-be-an-eye-problem-in-the-students {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-label-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-label-font-size, 16.03125px);
+  font-weight: var(--fotonvrcom-semantic-label-font-weight, 600);
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.margin8 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container89 {
+  padding: 202px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 16px;
+  left: 16px;
+  top: 544px;
+}
+.more-questions {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 20px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.paragraph {
+  height: 163.7px;
+  position: absolute;
+  right: 16px;
+  left: 16px;
+  top: 428.3px;
+}
+.ask-to-support-email-at {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 20px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: absolute;
+  left: 0px;
+  top: 395.75px;
+  width: 234.73px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.link-school-fotonvr-com {
+  color: var(--fotonvrcom-flush-orange, #ff8000);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-link-lower-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-link-lower-font-size, 19.6875px);
+  font-weight: var(--fotonvrcom-semantic-link-lower-font-weight, 400);
+  text-transform: lowercase;
+  position: absolute;
+  left: 234.53px;
+  top: 492.21px;
+  width: 180.65px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.section13 {
+  padding: 128px 359px 128px 359px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 8854.7px;
+}
+.container90 {
+  flex-shrink: 0;
+  width: 1202px;
+  height: 256px;
+  max-width: var(--width-1202, 1202px);
+  position: relative;
+}
+.heading-213 {
+  padding: 198.75px 39.87px 0px 39.88px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 512px;
+  max-width: var(--width-512, 512px);
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 200px;
+}
+.ready-to-be-a-part-of-our-journey {
+  color: var(--fotonvrcom-white, #ffffff);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-semantic-heading-2-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-2-font-size, 36.5625px);
+  font-weight: var(--fotonvrcom-semantic-heading-2-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container91 {
+  padding: 195.75px 34.16px 205.7px 34.16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 448px;
+  max-width: var(--width-448, 448px);
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 320px;
+}
+.join-the-vr-education-revolution-explore-engage-excel {
+  color: var(--fotonvrcom-white, #ffffff);
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 20px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-43 {
+  background: #ff8000;
+  border-radius: 9999px;
+  padding: 108.46px 32px 12px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  height: 48px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 601.75px;
+}
+.footer {
+  background: var(--fotonvrcom-white, #ffffff);
+  height: 460.98px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0.32px;
+}
+.container92 {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1202px;
+  max-width: var(--width-1202, 1202px);
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 853.44px;
+  height: 482.21px;
+  position: static;
+}
+.item {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 993.64px;
+  left: 16px;
+  top: 71.51px;
+}
+.component-113 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text26 {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item2 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 993.64px;
+  left: 16px;
+  top: 99.51px;
+}
+.item3 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 773.28px;
+  left: 236.35986328125px;
+  top: 71.51px;
+}
+.item4 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 773.28px;
+  left: 236.35986328125px;
+  top: 99.51px;
+}
+.item5 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 773.28px;
+  left: 236.35986328125px;
+  top: 127.51px;
+}
+.item6 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 552.92px;
+  left: 456.719970703125px;
+  top: 0px;
+}
+.item7 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 552.92px;
+  left: 456.719970703125px;
+  top: 28px;
+}
+.item8 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 552.92px;
+  left: 456.719970703125px;
+  top: 56px;
+}
+.item9 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 552.92px;
+  left: 456.719970703125px;
+  top: 84px;
+}
+.item10 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 552.92px;
+  left: 456.719970703125px;
+  top: 112px;
+}
+.item11 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 552.92px;
+  left: 456.719970703125px;
+  top: 140px;
+}
+.item12 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 552.92px;
+  left: 456.719970703125px;
+  top: 168px;
+}
+.text27 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-segoe-ui-symbol-regular-font-family,
+    "SegoeUiSymbol-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-segoe-ui-symbol-regular-font-size, 16px);
+  line-height: var(--fotonvrcom-segoe-ui-symbol-regular-line-height, 24px);
+  font-weight: var(--fotonvrcom-segoe-ui-symbol-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item13 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 332.56px;
+  left: 677.079833984375px;
+  top: 55px;
+}
+.item14 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 332.56px;
+  left: 677.079833984375px;
+  top: 83px;
+}
+.item15 {
+  padding: 290.21px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 332.56px;
+  left: 677.079833984375px;
+  top: 111px;
+}
+.container93 {
+  margin: -149.01px 0 0 0;
+  padding: 96px 0.01px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-28, 28px);
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.margin9 {
+  padding: 0px 0px 24px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container94 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container95 {
+  padding: 200px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 368px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 47.99px;
+}
+.heading-32 {
+  padding: 202px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.about {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 13.5625px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.list {
+  height: 52px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 41px;
+}
+.item-margin {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 224px;
+}
+.policies {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 12.796875px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.list2 {
+  height: 80px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 41px;
+}
+.item-margin2 {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 252px;
+}
+.margin10 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container96 {
+  padding: 200px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--line-height-24, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.heading-33 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.in-market {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 13.234375px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.list3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 192px;
+  position: relative;
+}
+.item-margin3 {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 24px;
+}
+.item-margin4 {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 52px;
+}
+.item-margin5 {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 80px;
+}
+.item-margin6 {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 108px;
+}
+.item-margin7 {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 136px;
+}
+.item-margin8 {
+  height: 28px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 164px;
+}
+.join-us {
+  color: var(--fotonvrcom-bunting, #131740);
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-semantic-heading-3-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-semantic-heading-3-font-size, 12.03125px);
+  font-weight: var(--fotonvrcom-semantic-heading-3-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.list4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 80px;
+  position: relative;
+}
+.container97 {
+  margin: -149.01px 0 0 0;
+  padding: 32px 440.33px 0px 440.31px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-114 {
+  padding: 201px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.text28 {
+  color: var(--fotonvrcom-black, #000000);
+  text-align: left;
+  font-family: var(--font-family-font-1, "SegoeUiSymbol-Regular", sans-serif);
+  font-size: var(--font-size-14, 14px);
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1920px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  backdrop-filter: blur(4px);
+}
+.container98 {
+  padding: 24px 96px 24px 96px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container99 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 204px;
+  position: relative;
+}
+.image-8 {
+  flex-shrink: 0;
+  width: 204px;
+  height: 204px;
+  position: relative;
+  object-fit: cover;
+}
+.link2 {
+  margin: 0 0 0 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container100 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 39px;
+  position: relative;
+}
+.margin11 {
+  margin: 0 0 0 0px;
+  padding: 0px 0px 0px 925.92px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex: 1;
+  min-width: var(--width-64208, 642.08px);
+  position: relative;
+}
+.container101 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.list5 {
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-12, 12px);
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-12 {
+  padding: 14px 20px 14px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container102 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text29 {
+  color: #ff8000;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 15.75px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text30 {
+  color: #131740;
+  text-align: center;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 14.5px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item16 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-158 {
+  background: #ff8000;
+  border-radius: 8px;
+  padding: 8px 20px 8px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-53 {
+  padding: 2px 0px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text31 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --fotonvrcom-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--fotonvrcom-inter-regular-font-size, 14.5px);
+  font-weight: var(--fotonvrcom-inter-regular-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.margin12 {
+  margin: 0 0 0 0px;
+  padding: 0px 0px 0px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container103 {
+  padding: 0px 0px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-16 {
+  background: #25233a;
+  border-radius: 9999px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.component-243 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.item17 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1738px;
+  top: 43px;
+}
+.item18 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1613px;
+  top: 43px;
+}
+.text32 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--font-family-font-2, "Inter-Regular", sans-serif);
+  font-size: 14.5px;
+  font-weight: var(--font-weight-400, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
